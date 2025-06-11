@@ -1,7 +1,7 @@
 package Observer;
 
-import javax.swing.;
-import java.awt.;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 
 public class VentanaColores extends JFrame {
@@ -29,9 +29,4 @@ public class VentanaColores extends JFrame {
         getContentPane().setBackground(nuevoColor);
     }
 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> {
-            new VentanaColores().setVisible(true);
-        });
-    }
 }
