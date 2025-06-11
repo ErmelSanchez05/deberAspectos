@@ -1,4 +1,4 @@
-# deberAspectos
+# DeberAspectos
 
 Este proyecto implementa el patrón Observer utilizando AspectJ, como parte de la tarea 01 del curso de Diseño de Software.
 
